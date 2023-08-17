@@ -23,7 +23,7 @@ This project is a simple implementation of a database system, inspired by concep
   g++ src/document.cpp src/collection.cpp src/database.cpp main.cpp
   ```
 3. Run the compiled executable:
-   ```bash
+  ```bash
   ./a.out
   ```
 
