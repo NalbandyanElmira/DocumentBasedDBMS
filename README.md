@@ -10,17 +10,23 @@ This project is a simple implementation of a database system, inspired by concep
 
 1. Clone the repository:
 
-   ```sh
+   ```bash
    git clone https://github.com/NalbandyanElmira/DocumentBasedDBMS.git
+   ```
+
+   ```bash
    cd DocumentBasedDBMS
+   ```
 
 2. Compile the code:
    
-  ```sh
+  ```bash
   g++ src/document.cpp src/collection.cpp src/database.cpp main.cpp
+  ```
 
-4. Run the compiled executable:
-   ```sh
+3. Run the compiled executable:
+   ```bash
   ./a.out
+  ```
 
 Follow the prompts and instructions provided by the program to create databases, collections, and documents, as well as perform various operations such as insertion, updating, and deletion.
